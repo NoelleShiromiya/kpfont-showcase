@@ -1,73 +1,73 @@
 @font-face {
 	font-family: 'KP CheonRiMa';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheonRiMa.woff2') format('woff2');
+	src: local('KP CheonRiMa'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheonRiMa.woff2') format('woff2');
 	font-weight: 400;
 }
 @font-face {
 	font-family: 'KP CheonRiMa';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheonRiMa-Light.woff2') format('woff2');
+	src: local('KP CheonRiMa L'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheonRiMa-Light.woff2') format('woff2');
 	font-weight: 300;
 }
 @font-face {
 	font-family: 'KP CheonRiMa';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheonRiMa-Bold.woff2') format('woff2');
+	src: local('KP CheonRiMa B'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheonRiMa-Bold.woff2') format('woff2');
 	font-weight: 700;
 }
 @font-face {
 	font-family: 'KP CheongPong';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheongPong.woff2') format('woff2');
+	src: local('KP CheongPong'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheongPong.woff2') format('woff2');
 	font-weight: 400;
 }
 @font-face {
 	font-family: 'KP CheongPong';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheongPong-Light.woff2') format('woff2');
+	src: local('KP CheongPong L'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheongPong-Light.woff2') format('woff2');
 	font-weight: 300;
 }
 @font-face {
 	font-family: 'KP CheongPong';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheongPong-Bold.woff2') format('woff2');
+	src: local('KP CheongPong B'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-CheongPong-Bold.woff2') format('woff2');
 	font-weight: 700;
 }
 @font-face {
 	font-family: 'KP PusKul';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-PusKul.woff2') format('woff2');
+	src: local('KP PusKul'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-PusKul.woff2') format('woff2');
 	font-weight: 400;
 }
 @font-face {
 	font-family: 'KP PusKul';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-PusKul.woff2') format('woff2');
+	src: local('KP PusKul'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-PusKul.woff2') format('woff2');
 	font-weight: 700;
 }
 @font-face {
 	font-family: 'KP KwangMyeong';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-KwangMyeong.woff2') format('woff2');
+	src: local('KP KwangMyeong'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-KwangMyeong.woff2') format('woff2');
 	font-weight: 400;
 }
 @font-face {
 	font-family: 'KP KwangMyeong';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-KwangMyeong-Bold.woff2') format('woff2');
+	src: local('KP KwangMyeong B'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/KP-KwangMyeong-Bold.woff2') format('woff2');
 	font-weight: 700;
 }
 @font-face {
 	font-family: 'LXGW WenKai KP';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/LXGWWenKaiKP-Regular.woff2') format('woff2');
+	src: local('LXGW WenKai KP'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/LXGWWenKaiKP-Regular.woff2') format('woff2');
 	font-weight: 400;
 }
 @font-face {
 	font-family: 'SB ChonLiMa';
-	src:url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/sbchollima.woff2') format('woff2');
+	src: local('SB ChonLiMa'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/sbchollima.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'WKLGothic';
-	src: url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/wklgoth.woff2');
+	src: local('WKLGothic'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/wklgoth.woff2');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'WKWChongbong';
-	src: url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/wkwchbo.woff2');
+	src: local('WKWChongbong'), url('https://noelleshiromiya.github.io/kpfont-showcase/fonts/wkwchbo.woff2');
 	font-weight: normal;
 	font-style: normal;
 }
